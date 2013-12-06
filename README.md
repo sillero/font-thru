@@ -11,7 +11,7 @@ Font sources (webfont.js):
 
 Features:  
 - text authoring options (font choooser, text decoration and weight, line spacing, character spacing...)
-- stack ordering
+- grouping and stack ordering
 - skew and rotation
 - export/save
 
