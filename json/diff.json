@@ -1,0 +1,1997 @@
+{
+	"api": {
+		"kind": "webfonts#webfontList",
+		"items": []
+	},
+	"metadata": {
+		"items": [
+			{
+				"name": "Creepster Caps",
+				"designer": "Sideshow",
+				"license": "Apache2",
+				"visibility": "Internal",
+				"category": "Display",
+				"size": 35375,
+				"fonts": [
+					{
+						"name": "Creepster Caps",
+						"style": "normal",
+						"weight": 400,
+						"filename": "CreepsterCaps-Regular.ttf",
+						"postScriptName": "CreepsterCaps-Regular",
+						"fullName": "Creepster Caps Regular",
+						"copyright": "Copyright (c) 2010 by Font Diner, Inc DBA Sideshow (diner@fontdiner.com). All rights reserved."
+					}
+				],
+				"subsets": [
+					"latin",
+					"menu"
+				],
+				"dateAdded": "2011-10-24"
+			},
+			{
+				"name": "Droid Arabic Kufi",
+				"designer": "Pascal Zoghbi",
+				"license": "Apache2",
+				"visibility": "Internal",
+				"category": "Display",
+				"size": 41542,
+				"fonts": [
+					{
+						"name": "Droid Arabic Kufi",
+						"style": "normal",
+						"weight": 400,
+						"filename": "DroidKufi-Regular.ttf",
+						"postScriptName": "DroidArabicKufi",
+						"fullName": "Droid Arabic Kufi",
+						"copyright": "Digitized data copyright © 2010, Google Corporation."
+					},
+					{
+						"name": "Droid Arabic Kufi",
+						"style": "normal",
+						"weight": 700,
+						"filename": "DroidKufi-Bold.ttf",
+						"postScriptName": "DroidArabicKufi-Bold",
+						"fullName": "Droid Arabic Kufi Bold",
+						"copyright": "Digitized data copyright © 2010, Google Corporation."
+					}
+				],
+				"subsets": [
+					"arabic",
+					"menu"
+				],
+				"dateAdded": "2011-11-30"
+			},
+			{
+				"name": "Droid Arabic Naskh",
+				"designer": "Pascal Zoghbi",
+				"license": "Apache2",
+				"visibility": "Internal",
+				"category": "Display",
+				"size": 106297,
+				"fonts": [
+					{
+						"name": "Droid Arabic Naskh",
+						"style": "normal",
+						"weight": 400,
+						"filename": "DroidNaskh-Regular.ttf",
+						"postScriptName": "DroidArabicNaskh",
+						"fullName": "Droid Arabic Naskh",
+						"copyright": "Digitized data copyright © 2010, Google Corporation."
+					},
+					{
+						"name": "Droid Arabic Naskh",
+						"style": "normal",
+						"weight": 700,
+						"filename": "DroidNaskh-Bold.ttf",
+						"postScriptName": "DroidArabicNaskh-Bold",
+						"fullName": "Droid Arabic Naskh Bold",
+						"copyright": "Digitized data copyright © 2010, Google Corporation."
+					}
+				],
+				"subsets": [
+					"arabic",
+					"menu"
+				],
+				"dateAdded": "2011-11-30"
+			},
+			{
+				"name": "Droid Sans Ethiopic",
+				"designer": "Monotype",
+				"license": "Apache2",
+				"visibility": "Sandbox",
+				"category": "Sans Serif",
+				"size": 91795,
+				"fonts": [
+					{
+						"name": "Droid Sans Ethiopic",
+						"style": "normal",
+						"weight": 400,
+						"filename": "DroidSansEthiopic-Regular.ttf",
+						"postScriptName": "DroidSansEthiopic",
+						"fullName": "Droid Sans Ethiopic",
+						"copyright": "Digitized data copyright Google Corporation © 2010"
+					},
+					{
+						"name": "Droid Sans Ethiopic",
+						"style": "normal",
+						"weight": 700,
+						"filename": "DroidSansEthiopic-Bold.ttf",
+						"postScriptName": "DroidSansEthiopic-Bold",
+						"fullName": "Droid Sans Ethiopic Bold",
+						"copyright": "Digitized data copyright Google Corporation © 2010"
+					}
+				],
+				"subsets": [
+					"ethiopic",
+					"menu"
+				],
+				"dateAdded": "2012-05-09"
+			},
+			{
+				"name": "Droid Sans Thai",
+				"designer": "Monotype",
+				"license": "Apache2",
+				"visibility": "Sandbox",
+				"category": "Sans Serif",
+				"size": 18871,
+				"fonts": [
+					{
+						"name": "Droid Sans Thai",
+						"style": "normal",
+						"weight": 400,
+						"filename": "DroidSansThai-Regular.ttf",
+						"postScriptName": "DroidSansThai",
+						"fullName": "Droid Sans Thai",
+						"copyright": "Digitized data copyright Google Corporation © 2009"
+					},
+					{
+						"name": "Droid Sans Thai",
+						"style": "normal",
+						"weight": 700,
+						"filename": "DroidSansThai-Bold.ttf",
+						"postScriptName": "DroidSansThai-Bold",
+						"fullName": "Droid Sans Thai Bold",
+						"copyright": "Digitized data copyright Google Corporation © 2011"
+					}
+				],
+				"subsets": [
+					"menu",
+					"thai"
+				],
+				"dateAdded": "2012-05-09"
+			},
+			{
+				"name": "Droid Serif Thai",
+				"designer": "Monotype",
+				"license": "Apache2",
+				"visibility": "Sandbox",
+				"category": "Serif",
+				"size": 16205,
+				"fonts": [
+					{
+						"name": "Droid Serif Thai",
+						"style": "normal",
+						"weight": 400,
+						"filename": "DroidSerifThai-Regular.ttf",
+						"postScriptName": "DroidSerifThai",
+						"fullName": "Droid Serif Thai",
+						"copyright": "Digitized data copyright Google Corporation © 2011"
+					},
+					{
+						"name": "Droid Serif Thai",
+						"style": "normal",
+						"weight": 700,
+						"filename": "DroidSerifThai-Bold.ttf",
+						"postScriptName": "DroidSerifThai-Bold",
+						"fullName": "DroidSerifThai Bold",
+						"copyright": "Digitized data copyright Google Corporation © 2011"
+					}
+				],
+				"subsets": [
+					"menu",
+					"thai"
+				],
+				"dateAdded": "2012-05-09"
+			},
+			{
+				"name": "Irish Growler",
+				"designer": "Sideshow",
+				"license": "Apache2",
+				"visibility": "Internal",
+				"category": "Display",
+				"size": 30494,
+				"fonts": [
+					{
+						"name": "Irish Growler",
+						"style": "normal",
+						"weight": 400,
+						"filename": "IrishGrowler.ttf",
+						"postScriptName": "IrishGrowler",
+						"fullName": "Irish Growler",
+						"copyright": "Copyright (c) 2010 by Font Diner, Inc DBA Sideshow (diner@fontdiner.com). All rights reserved."
+					}
+				],
+				"subsets": [
+					"latin",
+					"menu"
+				],
+				"dateAdded": "2011-01-06"
+			},
+			{
+				"name": "jsMath cmbx10",
+				"designer": "Donald Knuth",
+				"license": "Apache2",
+				"visibility": "Internal",
+				"category": "Serif",
+				"size": 28617,
+				"fonts": [
+					{
+						"name": "jsMath cmbx10",
+						"style": "normal",
+						"weight": 400,
+						"filename": "jsMath-cmbx10.ttf",
+						"postScriptName": "jsMath-cmbx10",
+						"fullName": "jsMath-cmbx10",
+						"copyright": "Generated from MetaFont bitmap by mftrace 1.0.33, http://www.cs.uu.nl/~hanwen/mftrace/"
+					}
+				],
+				"subsets": [
+					"latin",
+					"menu"
+				],
+				"dateAdded": "2010-12-20"
+			},
+			{
+				"name": "jsMath cmex10",
+				"designer": "Donald Knuth",
+				"license": "Apache2",
+				"visibility": "Internal",
+				"category": "Serif",
+				"size": 18923,
+				"fonts": [
+					{
+						"name": "jsMath cmex10",
+						"style": "normal",
+						"weight": 400,
+						"filename": "jsMath-cmex10.ttf",
+						"postScriptName": "jsMath-cmex10",
+						"fullName": "jsMath-cmex10",
+						"copyright": "Generated from MetaFont bitmap by mftrace 1.0.33, http://www.cs.uu.nl/~hanwen/mftrace/"
+					}
+				],
+				"subsets": [
+					"latin",
+					"menu"
+				],
+				"dateAdded": "2010-12-20"
+			},
+			{
+				"name": "jsMath cmmi10",
+				"designer": "Donald Knuth",
+				"license": "Apache2",
+				"visibility": "Internal",
+				"category": "Serif",
+				"size": 27511,
+				"fonts": [
+					{
+						"name": "jsMath cmmi10",
+						"style": "normal",
+						"weight": 400,
+						"filename": "jsMath-cmmi10.ttf",
+						"postScriptName": "jsMath-cmmi10",
+						"fullName": "jsMath-cmmi10",
+						"copyright": "Generated from MetaFont bitmap by mftrace 1.0.33, http://www.cs.uu.nl/~hanwen/mftrace/"
+					}
+				],
+				"subsets": [
+					"latin",
+					"menu"
+				],
+				"dateAdded": "2010-12-20"
+			},
+			{
+				"name": "jsMath cmr10",
+				"designer": "Donald Knuth",
+				"license": "Apache2",
+				"visibility": "Internal",
+				"category": "Serif",
+				"size": 27750,
+				"fonts": [
+					{
+						"name": "jsMath cmr10",
+						"style": "normal",
+						"weight": 400,
+						"filename": "jsMath-cmr10.ttf",
+						"postScriptName": "jsMath-cmr10",
+						"fullName": "jsMath-cmr10",
+						"copyright": "Generated from MetaFont bitmap by mftrace 1.0.33, http://www.cs.uu.nl/~hanwen/mftrace/"
+					}
+				],
+				"subsets": [
+					"latin",
+					"menu"
+				],
+				"dateAdded": "2010-12-20"
+			},
+			{
+				"name": "jsMath cmsy10",
+				"designer": "Donald Knuth",
+				"license": "Apache2",
+				"visibility": "Internal",
+				"category": "Serif",
+				"size": 25168,
+				"fonts": [
+					{
+						"name": "jsMath cmsy10",
+						"style": "normal",
+						"weight": 400,
+						"filename": "jsMath-cmsy10.ttf",
+						"postScriptName": "jsMath-cmsy10",
+						"fullName": "jsMath-cmsy10",
+						"copyright": "Generated from MetaFont bitmap by mftrace 1.0.33, http://www.cs.uu.nl/~hanwen/mftrace/"
+					}
+				],
+				"subsets": [
+					"latin",
+					"menu"
+				],
+				"dateAdded": "2010-12-20"
+			},
+			{
+				"name": "jsMath cmti10",
+				"designer": "Donald Knuth",
+				"license": "Apache2",
+				"visibility": "Internal",
+				"category": "Serif",
+				"size": 27293,
+				"fonts": [
+					{
+						"name": "jsMath cmti10",
+						"style": "normal",
+						"weight": 400,
+						"filename": "jsMath-cmti10.ttf",
+						"postScriptName": "jsMath-cmti10",
+						"fullName": "jsMath-cmti10",
+						"copyright": "Generated from MetaFont bitmap by mftrace 1.0.33, http://www.cs.uu.nl/~hanwen/mftrace/"
+					}
+				],
+				"subsets": [
+					"latin",
+					"menu"
+				],
+				"dateAdded": "2010-12-20"
+			},
+			{
+				"name": "Noto Sans UI",
+				"designer": "Google",
+				"license": "Apache2",
+				"visibility": "Internal",
+				"category": "Sans Serif",
+				"size": 177390,
+				"fonts": [
+					{
+						"name": "Noto Sans UI",
+						"postScriptName": "NotoSansUI-Bold",
+						"fullName": "Noto Sans UI Bold",
+						"style": "normal",
+						"weight": 700,
+						"filename": "NotoSansUI-Bold.ttf",
+						"copyright": "Copyright 2012 Google Inc. All Rights Reserved."
+					},
+					{
+						"name": "Noto Sans UI",
+						"postScriptName": "NotoSansUI-BoldItalic",
+						"fullName": "Noto Sans UI Bold Italic",
+						"style": "italic",
+						"weight": 700,
+						"filename": "NotoSansUI-BoldItalic.ttf",
+						"copyright": "Copyright 2012 Google Inc. All Rights Reserved."
+					},
+					{
+						"name": "Noto Sans UI",
+						"postScriptName": "NotoSansUI-Italic",
+						"fullName": "Noto Sans UI Italic",
+						"style": "italic",
+						"weight": 400,
+						"filename": "NotoSansUI-Italic.ttf",
+						"copyright": "Copyright 2012 Google Inc. All Rights Reserved."
+					},
+					{
+						"name": "Noto Sans UI",
+						"postScriptName": "NotoSansUI",
+						"fullName": "Noto Sans UI",
+						"style": "normal",
+						"weight": 400,
+						"filename": "NotoSansUI-Regular.ttf",
+						"copyright": "Copyright 2012 Google Inc. All Rights Reserved."
+					}
+				],
+				"subsets": [
+					"cyrillic",
+					"cyrillic-ext",
+					"greek",
+					"greek-ext",
+					"latin",
+					"latin-ext",
+					"menu",
+					"vietnamese"
+				],
+				"dateAdded": "2013-02-27"
+			},
+			{
+				"name": "Amiri",
+				"designer": "Khaled Hosny",
+				"license": "OFL",
+				"visibility": "External",
+				"category": "Serif",
+				"size": "238904",
+				"dateAdded": "2012-07-30",
+				"fonts": [
+					{
+						"name": "Amiri",
+						"postScriptName": "Amiri-Bold",
+						"fullName": "Amiri Bold",
+						"style": "normal",
+						"weight": 700,
+						"filename": "Amiri-Bold.ttf",
+						"copyright": "Copyright (c) 2010, 2012, Khaled Hosny <khaledhosny@eglug.org>. Portions copyright (c) 2010, Sebastian Kosch <sebastian@aldusleaf.org>\n\nThis Font Software is licensed under the Open Font License, Version 1.1."
+					},
+					{
+						"name": "Amiri",
+						"postScriptName": "Amiri-BoldSlanted",
+						"fullName": "Amiri Bold Slanted",
+						"style": "italic",
+						"weight": 700,
+						"filename": "Amiri-BoldSlanted.ttf",
+						"copyright": "Copyright (c) 2010, 2012, Khaled Hosny <khaledhosny@eglug.org>. Portions copyright (c) 2010, Sebastian Kosch <sebastian@aldusleaf.org>\n\nThis Font Software is licensed under the Open Font License, Version 1.1."
+					},
+					{
+						"name": "Amiri",
+						"postScriptName": "Amiri-Regular",
+						"fullName": "Amiri",
+						"style": "normal",
+						"weight": 400,
+						"filename": "Amiri-Regular.ttf",
+						"copyright": "Copyright (c) 2010, 2012, Khaled Hosny <khaledhosny@eglug.org>. Portions copyright (c) 2010, Sebastian Kosch <sebastian@aldusleaf.org>\n\nThis Font Software is licensed under the Open Font License, Version 1.1."
+					},
+					{
+						"name": "Amiri",
+						"postScriptName": "Amiri-Slanted",
+						"fullName": "Amiri Slanted",
+						"style": "italic",
+						"weight": 400,
+						"filename": "Amiri-Slanted.ttf",
+						"copyright": "Copyright (c) 2010, 2012, Khaled Hosny <khaledhosny@eglug.org>. Portions copyright (c) 2010, Sebastian Kosch <sebastian@aldusleaf.org>\n\nThis Font Software is licensed under the Open Font License, Version 1.1."
+					}
+				],
+				"subsets": [
+					"latin",
+					"arabic"
+				]
+			},
+			{
+				"name": "Andada SC",
+				"designer": "Huerta Tipográfica",
+				"license": "OFL",
+				"visibility": "Sandbox",
+				"category": "Serif",
+				"size": 30271,
+				"fonts": [
+					{
+						"name": "Andada SC",
+						"postScriptName": "AndadaSC-Bold",
+						"fullName": "Andada SC Bold",
+						"style": "normal",
+						"weight": 700,
+						"filename": "AndadaSC-Bold.ttf",
+						"copyright": "Copyright (c) 2011-2012, Carolina Giovagnoli (huertatipografica.com.ar info@huertatipografica.com.ar), with Reserved Font Name 'Andada'"
+					},
+					{
+						"name": "Andada SC",
+						"postScriptName": "AndadaSC-BoldItalic",
+						"fullName": "Andada SC Bold Italic",
+						"style": "italic",
+						"weight": 700,
+						"filename": "AndadaSC-BoldItalic.ttf",
+						"copyright": "Copyright (c) 2011-2012, Carolina Giovagnoli (huertatipografica.com.ar info@huertatipografica.com.ar), with Reserved Font Name 'Andada'"
+					},
+					{
+						"name": "Andada SC",
+						"postScriptName": "AndadaSC-Italic",
+						"fullName": "Andada SC Italic",
+						"style": "italic",
+						"weight": 400,
+						"filename": "AndadaSC-Italic.ttf",
+						"copyright": "Copyright (c) 2011-2012, Carolina Giovagnoli (huertatipografica.com.ar info@huertatipografica.com.ar), with Reserved Font Name 'Andada'"
+					},
+					{
+						"name": "Andada SC",
+						"postScriptName": "AndadaSC-Regular",
+						"fullName": "Andada SC",
+						"style": "normal",
+						"weight": 400,
+						"filename": "AndadaSC-Regular.ttf",
+						"copyright": "Copyright (c) 2011-2012, Carolina Giovagnoli (huertatipografica.com.ar info@huertatipografica.com.ar), with Reserved Font Name 'Andada'"
+					}
+				],
+				"subsets": [
+					"latin",
+					"latin-ext",
+					"menu"
+				],
+				"dateAdded": "2012-11-12"
+			},
+			{
+				"name": "Antonio",
+				"designer": "Vernon Adams",
+				"license": "OFL",
+				"visibility": "Sandbox",
+				"category": "Sans Serif",
+				"size": 26453,
+				"fonts": [
+					{
+						"name": "Antonio",
+						"postScriptName": "Antonio-Bold",
+						"fullName": "Antonio Bold",
+						"style": "normal",
+						"weight": 700,
+						"filename": "Antonio-Bold.ttf",
+						"copyright": "Copyright (c) 2011-12, vernon adams (vern@newtypography.co.uk), with Reserved Font Names 'Antonio'"
+					},
+					{
+						"name": "Antonio",
+						"postScriptName": "Antonio-Light",
+						"fullName": "Antonio Light",
+						"style": "normal",
+						"weight": 300,
+						"filename": "Antonio-Light.ttf",
+						"copyright": "Copyright (c) 2011-12, vernon adams (vern@newtypography.co.uk), with Reserved Font Names 'Antonio'"
+					},
+					{
+						"name": "Antonio",
+						"postScriptName": "Antonio-Regular",
+						"fullName": "Antonio Regular",
+						"style": "normal",
+						"weight": 400,
+						"filename": "Antonio-Regular.ttf",
+						"copyright": "Copyright (c) 2011-12, vernon adams (vern@newtypography.co.uk), with Reserved Font Names 'Antonio'"
+					}
+				],
+				"subsets": [
+					"latin",
+					"latin-ext",
+					"menu"
+				],
+				"dateAdded": "2013-03-06"
+			},
+			{
+				"name": "Bruno Ace",
+				"designer": "Astigmatic",
+				"license": "OFL",
+				"visibility": "Sandbox",
+				"category": "Sans Serif",
+				"size": 23868,
+				"fonts": [
+					{
+						"name": "Bruno Ace",
+						"postScriptName": "BrunoAce-Regular",
+						"fullName": "Bruno Ace",
+						"style": "normal",
+						"weight": 400,
+						"filename": "BrunoAce-Regular.ttf",
+						"copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Bruno Ace\""
+					}
+				],
+				"subsets": [
+					"latin",
+					"latin-ext",
+					"menu"
+				],
+				"dateAdded": "2012-11-16"
+			},
+			{
+				"name": "Bruno Ace SC",
+				"designer": "Astigmatic",
+				"license": "OFL",
+				"visibility": "Sandbox",
+				"category": "Sans Serif",
+				"size": 23658,
+				"fonts": [
+					{
+						"name": "Bruno Ace SC",
+						"postScriptName": "BrunoAceSC-Regular",
+						"fullName": "Bruno Ace SC",
+						"style": "normal",
+						"weight": 400,
+						"filename": "BrunoAceSC-Regular.ttf",
+						"copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Bruno Ace SC\""
+					}
+				],
+				"subsets": [
+					"latin",
+					"latin-ext",
+					"menu"
+				],
+				"dateAdded": "2012-11-16"
+			},
+			{
+				"name": "Butcherman Caps",
+				"designer": "Typomondo",
+				"license": "OFL",
+				"visibility": "Internal",
+				"category": "Display",
+				"size": 44712,
+				"fonts": [
+					{
+						"name": "Butcherman Caps",
+						"style": "normal",
+						"weight": 400,
+						"filename": "ButchermanCaps-Regular.ttf",
+						"postScriptName": "ButchermanCaps-Regular",
+						"fullName": "Butcherman Caps Regular",
+						"copyright": "Copyright (c) 2011, Vernon Adams DBA Typomondo (vern@newtypography.co.uk), with Reserved Font Name \"Butcherman\"."
+					}
+				],
+				"subsets": [
+					"latin",
+					"latin-ext",
+					"menu"
+				],
+				"dateAdded": "2011-10-24"
+			},
+			{
+				"name": "Changa",
+				"designer": "Eduardo Tunni",
+				"license": "OFL",
+				"visibility": "Sandbox",
+				"category": "Sans Serif",
+				"size": 21542,
+				"fonts": [
+					{
+						"name": "Changa",
+						"postScriptName": "Changa-Regular",
+						"fullName": "Changa",
+						"style": "normal",
+						"weight": 400,
+						"filename": "Changa-Regular.ttf",
+						"copyright": "Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar edu@tipo.net.ar), with Reserved Font Name 'Changa'"
+					}
+				],
+				"subsets": [
+					"latin",
+					"latin-ext",
+					"menu"
+				],
+				"dateAdded": "2012-10-31"
+			},
+			{
+				"name": "Clara",
+				"designer": "Proyecto Demo",
+				"license": "OFL",
+				"visibility": "Internal",
+				"category": "Display",
+				"size": 79183,
+				"fonts": [
+					{
+						"name": "Clara",
+						"style": "normal",
+						"weight": 400,
+						"filename": "Clara-Regular.ttf",
+						"postScriptName": "Clara-Regular",
+						"fullName": "Clara-Regular",
+						"copyright": "Copyright (c) 2010, Proyecto Demo (http://www.proyectodemo.cl), with Reserved Font Name Clara."
+					}
+				],
+				"subsets": [
+					"latin",
+					"menu"
+				],
+				"dateAdded": "2011-11-02"
+			},
+			{
+				"name": "Dhyana",
+				"designer": "Vernon Adams",
+				"license": "OFL",
+				"visibility": "Internal",
+				"category": "Serif",
+				"size": 41671,
+				"fonts": [
+					{
+						"name": "Dhyana",
+						"style": "normal",
+						"weight": 400,
+						"filename": "Dhyana-Regular.ttf",
+						"postScriptName": "Dhyana",
+						"fullName": "Dhyana",
+						"copyright": "Copyright (c) 2010-12, Vernon Adams (vern@newtypography.co.uk), with Reserved Font Names \"Nobile\" and \"Dhyana\""
+					},
+					{
+						"name": "Dhyana",
+						"style": "normal",
+						"weight": 700,
+						"filename": "Dhyana-Bold.ttf",
+						"postScriptName": "Dhyana-Bold",
+						"fullName": "Dhyana Bold",
+						"copyright": "Copyright (c) 2010-12, Vernon Adams (vern@newtypography.co.uk), with Reserved Font Names \"Nobile\" and \"Dhyana\""
+					}
+				],
+				"subsets": [
+					"lao",
+					"menu"
+				],
+				"dateAdded": "2011-12-15"
+			},
+			{
+				"name": "Eater Caps",
+				"designer": "Typomondo",
+				"license": "OFL",
+				"visibility": "Internal",
+				"category": "Display",
+				"size": 56321,
+				"fonts": [
+					{
+						"name": "Eater Caps",
+						"style": "normal",
+						"weight": 400,
+						"filename": "EaterCaps-Regular.ttf",
+						"postScriptName": "EaterCaps-Regular",
+						"fullName": "Eater Caps Regular",
+						"copyright": "Copyright (c) 2011, Vernon Adams DBA Typomondo (vern@newtypography.co.uk), with Reserved Font Name \"Eater\""
+					}
+				],
+				"subsets": [
+					"latin",
+					"latin-ext",
+					"menu"
+				],
+				"dateAdded": "2011-10-24"
+			},
+			{
+				"name": "Hermeneus One",
+				"designer": "Impallari Type",
+				"license": "OFL",
+				"visibility": "Sandbox",
+				"category": "Sans Serif",
+				"size": 51632,
+				"fonts": [
+					{
+						"name": "Hermeneus One",
+						"postScriptName": "HermeneusOne-Regular",
+						"fullName": "Hermeneus One",
+						"style": "normal",
+						"weight": 400,
+						"filename": "HermeneusOne-Regular.ttf",
+						"copyright": "Copyright (c) 2012, Pablo Impallari (www.impallari.com|impallari@gmail.com) and Rodrigo Fuenzalida (www.rfuenzalida.com), with Reserved Font Name Hermeneus."
+					}
+				],
+				"subsets": [
+					"latin",
+					"latin-ext",
+					"menu"
+				],
+				"dateAdded": "2012-05-01"
+			},
+			{
+				"name": "Josefin Sans Std Light",
+				"designer": "hidden",
+				"license": "OFL",
+				"visibility": "Internal",
+				"category": "Sans Serif",
+				"size": 21530,
+				"fonts": [
+					{
+						"name": "Josefin Sans Std Light",
+						"style": "normal",
+						"weight": 400,
+						"filename": "JosefinSansStd-Light.ttf",
+						"postScriptName": "JosefinSansStd-Light",
+						"fullName": "Josefin Sans Std Light",
+						"copyright": "Copyright (c) 2010 by Santiago Orozco (hi@typemade.mx). All rights reserved."
+					}
+				],
+				"subsets": [
+					"latin",
+					"menu"
+				],
+				"dateAdded": "2010-05-18"
+			},
+			{
+				"name": "Kantumruy",
+				"designer": "Tep Sovichet",
+				"license": "OFL",
+				"visibility": "Sandbox",
+				"category": "Sans Serif",
+				"size": 48446,
+				"fonts": [
+					{
+						"name": "Kantumruy",
+						"postScriptName": "Kantumruy-Bold",
+						"fullName": "Kantumruy Bold",
+						"style": "normal",
+						"weight": 700,
+						"filename": "Kantumruy-Bold.ttf",
+						"copyright": "Copyright (c) 2013, Tep Sovichet (it4ug.net sovichet.tep@gmail.com), with Reserved Font Name 'Kantumruy'"
+					},
+					{
+						"name": "Kantumruy",
+						"postScriptName": "KantumruyLight",
+						"fullName": "Kantumruy Light",
+						"style": "normal",
+						"weight": 300,
+						"filename": "Kantumruy-Light.ttf",
+						"copyright": "Copyright (c) 2013, Tep Sovichet (it4ug.net sovichet.tep@gmail.com), with Reserved Font Name 'Kantumruy'"
+					},
+					{
+						"name": "Kantumruy",
+						"postScriptName": "Kantumruy",
+						"fullName": "Kantumruy",
+						"style": "normal",
+						"weight": 400,
+						"filename": "Kantumruy-Regular.ttf",
+						"copyright": "Copyright (c) 2013, Tep Sovichet (it4ug.net sovichet.tep@gmail.com), with Reserved Font Name 'Kantumruy'"
+					}
+				],
+				"subsets": [
+					"khmer",
+					"menu"
+				],
+				"dateAdded": "2013-06-24"
+			},
+			{
+				"name": "Karla Tamil Inclined",
+				"designer": "Jonathan Pinhorn",
+				"license": "OFL",
+				"visibility": "Internal",
+				"category": "Sans Serif",
+				"size": 48621,
+				"fonts": [
+					{
+						"name": "Karla Tamil Inclined",
+						"postScriptName": "KarlaTamilInclined-Bold",
+						"fullName": "Karla Tamil Inclined Bold",
+						"style": "normal",
+						"weight": 700,
+						"filename": "KarlaTamilInclined-Bold.ttf",
+						"copyright": "Copyright (c) 2011-2012, Jonathan Pinhorn (jonpinhorn.typedesign@gmail.com), with Reserved Font Names 'Karla'"
+					},
+					{
+						"name": "Karla Tamil Inclined",
+						"postScriptName": "KarlaTamilInclined-Regular",
+						"fullName": "Karla Tamil Inclined",
+						"style": "normal",
+						"weight": 400,
+						"filename": "KarlaTamilInclined-Regular.ttf",
+						"copyright": "Copyright (c) 2011-2012, Jonathan Pinhorn (jonpinhorn.typedesign@gmail.com), with Reserved Font Names 'Karla'"
+					}
+				],
+				"subsets": [
+					"tamil"
+				],
+				"dateAdded": "2012-09-29"
+			},
+			{
+				"name": "Karla Tamil Upright",
+				"designer": "Jonathan Pinhorn",
+				"license": "OFL",
+				"visibility": "Internal",
+				"category": "Sans Serif",
+				"size": 65227,
+				"fonts": [
+					{
+						"name": "Karla Tamil Upright",
+						"postScriptName": "KarlaTamilUpright-Bold",
+						"fullName": "Karla Tamil Upright Bold",
+						"style": "normal",
+						"weight": 700,
+						"filename": "KarlaTamilUpright-Bold.ttf",
+						"copyright": "Copyright (c) 2011-2012, Jonathan Pinhorn (jonpinhorn.typedesign@gmail.com), with Reserved Font Names 'Karla'"
+					},
+					{
+						"name": "Karla Tamil Upright",
+						"postScriptName": "KarlaTamilUpright-Regular",
+						"fullName": "Karla Tamil Upright",
+						"style": "normal",
+						"weight": 400,
+						"filename": "KarlaTamilUpright-Regular.ttf",
+						"copyright": "Copyright (c) 2011-2012, Jonathan Pinhorn (jonpinhorn.typedesign@gmail.com), with Reserved Font Names 'Karla'"
+					}
+				],
+				"subsets": [
+					"tamil"
+				],
+				"dateAdded": "2012-09-29"
+			},
+			{
+				"name": "Lateef",
+				"designer": "SIL International",
+				"license": "OFL",
+				"visibility": "Internal",
+				"category": "Handwriting",
+				"size": 109324,
+				"fonts": [
+					{
+						"name": "Lateef",
+						"style": "normal",
+						"weight": 400,
+						"filename": "LateefRegOT.ttf",
+						"postScriptName": "Lateef",
+						"fullName": "Lateef",
+						"copyright": "Copyright (c) 2004-2008, SIL International (http://www.sil.org/), and released under the SIL Open Font License, with Reserved Font Names \"Lateef\" and \"SIL\"."
+					}
+				],
+				"subsets": [
+					"arabic",
+					"menu"
+				],
+				"dateAdded": "2012-01-18"
+			},
+			{
+				"name": "Lemon One",
+				"designer": "Eduardo Tunni",
+				"license": "OFL",
+				"visibility": "Internal",
+				"category": "Display",
+				"size": 17765,
+				"fonts": [
+					{
+						"name": "Lemon One",
+						"style": "normal",
+						"weight": 400,
+						"filename": "LemonOne-Regular.ttf",
+						"postScriptName": "LemonOne-Regular",
+						"fullName": "Lemon One Regular",
+						"copyright": "Copyright (c) 2011, Eduardo Tunni (http://www.tipo.net.ar edu@tipo.net.ar), with Reserved Font Name \"Lemon\""
+					}
+				],
+				"subsets": [
+					"latin",
+					"menu"
+				],
+				"dateAdded": "2011-11-09"
+			},
+			{
+				"name": "Libre Caslon Text",
+				"designer": "Pablo Impallari, Rodrigo Fuenzalida",
+				"license": "OFL",
+				"visibility": "Sandbox",
+				"category": "Serif",
+				"size": 64707,
+				"fonts": [
+					{
+						"name": "Libre Caslon Text",
+						"postScriptName": "LibreCaslonText-Bold",
+						"fullName": "Libre Caslon Text Bold",
+						"style": "normal",
+						"weight": 700,
+						"filename": "LibreCaslonText-Bold.ttf",
+						"copyright": "Copyright (c) 2012, Pablo Impallari (www.impallari.com|impallari@gmail.com), Rodrigo Fuenzalida (www.rfuenzalida.com|hello@rfuenzalida.com), with Reserved Font Name Libre Caslon."
+					},
+					{
+						"name": "Libre Caslon Text",
+						"postScriptName": "LibreCaslonText-Italic",
+						"fullName": "Libre Caslon Text Italic",
+						"style": "italic",
+						"weight": 400,
+						"filename": "LibreCaslonText-Italic.ttf",
+						"copyright": "Copyright (c) 2012, Pablo Impallari (www.impallari.com|impallari@gmail.com), Rodrigo Fuenzalida (www.rfuenzalida.com|hello@rfuenzalida.com), with Reserved Font Name Libre Caslon."
+					},
+					{
+						"name": "Libre Caslon Text",
+						"postScriptName": "LibreCaslonText-Regular",
+						"fullName": "Libre Caslon Text",
+						"style": "normal",
+						"weight": 400,
+						"filename": "LibreCaslonText-Regular.ttf",
+						"copyright": "Copyright (c) 2012, Pablo Impallari (www.impallari.com|impallari@gmail.com), Rodrigo Fuenzalida (www.rfuenzalida.com|hello@rfuenzalida.com), with Reserved Font Name Libre Caslon."
+					}
+				],
+				"subsets": [
+					"latin",
+					"latin-ext",
+					"menu"
+				],
+				"dateAdded": "2013-03-15"
+			},
+			{
+				"name": "Lohit Bengali",
+				"designer": "Multiple Designers",
+				"license": "OFL",
+				"visibility": "Internal",
+				"category": "Serif",
+				"size": 69100,
+				"fonts": [
+					{
+						"name": "Lohit Bengali",
+						"style": "normal",
+						"weight": 400,
+						"filename": "Lohit-Bengali.ttf",
+						"postScriptName": "Lohit-Bengali",
+						"fullName": "Lohit Bengali",
+						"copyright": "Copyright 2011 Lohit Fonts Project contributors (psatpute@redhat.com). <http://fedorahosted.org/lohit> Licensed under the SIL Open Font License 1.1 (see file OFL.txt)"
+					}
+				],
+				"subsets": [
+					"bengali"
+				],
+				"dateAdded": "2012-05-09"
+			},
+			{
+				"name": "Lohit Devanagari",
+				"designer": "Multiple Designers",
+				"license": "OFL",
+				"visibility": "Internal",
+				"category": "Serif",
+				"size": 34771,
+				"fonts": [
+					{
+						"name": "Lohit Devanagari",
+						"style": "normal",
+						"weight": 400,
+						"filename": "Lohit-Devanagari.ttf",
+						"postScriptName": "Lohit-Devanagari",
+						"fullName": "Lohit Devanagari",
+						"copyright": "Copyright 2011 Lohit Fonts Project contributors (psatpute@redhat.com). <http://fedorahosted.org/lohit> Licensed under the SIL Open Font License 1.1 (see file OFL.txt)"
+					}
+				],
+				"subsets": [
+					"hindi",
+					"menu"
+				],
+				"dateAdded": "2011-12-12"
+			},
+			{
+				"name": "Lohit Tamil",
+				"designer": "Multiple Designers",
+				"license": "OFL",
+				"visibility": "Internal",
+				"category": "Serif",
+				"size": 27639,
+				"fonts": [
+					{
+						"name": "Lohit Tamil",
+						"style": "normal",
+						"weight": 400,
+						"filename": "Lohit-Tamil.ttf",
+						"postScriptName": "Lohit-Tamil",
+						"fullName": "Lohit Tamil",
+						"copyright": "Copyright 2011 Lohit Fonts Project contributors (psatpute@redhat.com). <http://fedorahosted.org/lohit> Licensed under the SIL Open Font License 1.1 (see file OFL.txt)"
+					}
+				],
+				"subsets": [
+					"menu",
+					"tamil"
+				],
+				"dateAdded": "2011-12-12"
+			},
+			{
+				"name": "Merge One",
+				"designer": "Kosal Sen",
+				"license": "OFL",
+				"visibility": "Sandbox",
+				"category": "Sans Serif",
+				"size": 18668,
+				"fonts": [
+					{
+						"name": "Merge One",
+						"postScriptName": "MergeOne-Regular",
+						"fullName": "Merge One",
+						"style": "normal",
+						"weight": 400,
+						"filename": "MergeOne-Regular.ttf",
+						"copyright": "Copyright (c) 2012, Kosal Sen, Philatype (holla@philatype.com), with Reserved Font Name 'Merge'"
+					}
+				],
+				"subsets": [
+					"latin",
+					"latin-ext",
+					"menu"
+				],
+				"dateAdded": "2012-10-05"
+			},
+			{
+				"name": "Mervale Script",
+				"designer": "Astigmatic",
+				"license": "OFL",
+				"visibility": "Sandbox",
+				"category": "Handwriting",
+				"size": 40508,
+				"fonts": [
+					{
+						"name": "Mervale Script",
+						"postScriptName": "MervaleScript-Regular",
+						"fullName": "Mervale Script",
+						"style": "normal",
+						"weight": 400,
+						"filename": "MervaleScript-Regular.ttf",
+						"copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved Font Name \"Mervale Script\""
+					}
+				],
+				"subsets": [
+					"latin",
+					"latin-ext",
+					"menu"
+				],
+				"dateAdded": "2012-11-12"
+			},
+			{
+				"name": "Miama",
+				"designer": "Linus Romer",
+				"license": "OFL",
+				"visibility": "Sandbox",
+				"category": "Handwriting",
+				"size": 108364,
+				"fonts": [
+					{
+						"name": "Miama",
+						"style": "italic",
+						"weight": 400,
+						"filename": "Miama-Regular.ttf",
+						"postScriptName": "Miama-Regular",
+						"fullName": "Miama",
+						"copyright": "Copyright (c) 2008-2011, Linus Romer, with Reserved Font Name Miama. This Font Software is licensed under the SIL Open Font License, Version 1.1."
+					}
+				],
+				"subsets": [
+					"greek",
+					"greek-ext",
+					"latin",
+					"latin-ext",
+					"menu"
+				],
+				"dateAdded": "2012-05-09"
+			},
+			{
+				"name": "Miss Saint Delafield",
+				"designer": "Sudtipos",
+				"license": "OFL",
+				"visibility": "Internal",
+				"category": "Handwriting",
+				"size": 26638,
+				"fonts": [
+					{
+						"name": "Miss Saint Delafield",
+						"style": "normal",
+						"weight": 400,
+						"filename": "MrsSaintDelafield-Regular.ttf",
+						"postScriptName": "MrsSaintDelafield-Regular",
+						"fullName": "Mrs Saint Delafield Regular",
+						"copyright": "Copyright (c) 2004 Alejandro Paul (sudtipos@sudtipos.com), with Reserved Font Name \"Mrs Saint Delafield\""
+					}
+				],
+				"subsets": [
+					"latin",
+					"latin-ext",
+					"menu"
+				],
+				"dateAdded": "2011-11-30"
+			},
+			{
+				"name": "Mr Bedford",
+				"designer": "Sudtipos",
+				"license": "OFL",
+				"visibility": "Internal",
+				"category": "Handwriting",
+				"size": 21958,
+				"fonts": [
+					{
+						"name": "Mr Bedford",
+						"style": "normal",
+						"weight": 400,
+						"filename": "MrBedfort-Regular.ttf",
+						"postScriptName": "MrBedfort-Regular",
+						"fullName": "Mr Bedfort Regular",
+						"copyright": "Copyright (c) 2006 Alejandro Paul (sudtipos@sudtipos.com), with Reserved Font Name \"Mr Bedfort\""
+					}
+				],
+				"subsets": [
+					"latin",
+					"latin-ext",
+					"menu"
+				],
+				"dateAdded": "2011-11-30"
+			},
+			{
+				"name": "Nanum Brush Script",
+				"designer": "Sandoll Communication",
+				"license": "OFL",
+				"visibility": "Sandbox",
+				"category": "Handwriting",
+				"size": 1522342,
+				"fonts": [
+					{
+						"name": "Nanum Brush Script",
+						"style": "normal",
+						"weight": 400,
+						"filename": "NanumBrushScript-Regular.ttf",
+						"postScriptName": "NanumBrush",
+						"fullName": "Nanum Brush Script",
+						"copyright": "Copyright © 2010 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc."
+					}
+				],
+				"subsets": [
+					"korean",
+					"menu"
+				],
+				"dateAdded": "2012-05-09"
+			},
+			{
+				"name": "Nanum Gothic",
+				"designer": "Sandoll Communication",
+				"license": "OFL",
+				"visibility": "Sandbox",
+				"category": "Handwriting",
+				"size": 1016468,
+				"fonts": [
+					{
+						"name": "Nanum Gothic",
+						"style": "normal",
+						"weight": 400,
+						"filename": "NanumGothic-Regular.ttf",
+						"postScriptName": "NanumGothic",
+						"fullName": "NanumGothic",
+						"copyright": "Copyright © 2010 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc."
+					},
+					{
+						"name": "Nanum Gothic",
+						"style": "normal",
+						"weight": 600,
+						"filename": "NanumGothic-Bold.ttf",
+						"postScriptName": "NanumGothicBold",
+						"fullName": "NanumGothicBold",
+						"copyright": "Copyright © 2010 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc."
+					},
+					{
+						"name": "Nanum Gothic",
+						"style": "normal",
+						"weight": 700,
+						"filename": "NanumGothic-ExtraBold.ttf",
+						"postScriptName": "NanumGothicExtraBold",
+						"fullName": "NanumGothicExtraBold",
+						"copyright": "Copyright © 2010 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc."
+					}
+				],
+				"subsets": [
+					"korean",
+					"menu"
+				],
+				"dateAdded": "2012-05-09"
+			},
+			{
+				"name": "Nanum Gothic Coding",
+				"designer": "Sandoll Communication",
+				"license": "OFL",
+				"visibility": "Sandbox",
+				"category": "Handwriting",
+				"size": 1003051,
+				"fonts": [
+					{
+						"name": "Nanum Gothic Coding",
+						"style": "normal",
+						"weight": 400,
+						"filename": "NanumGothicCoding-Regular.ttf",
+						"postScriptName": "NanumGothicCoding",
+						"fullName": "NanumGothicCoding",
+						"copyright": "Copyright © 2009 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc."
+					},
+					{
+						"name": "Nanum Gothic Coding",
+						"style": "normal",
+						"weight": 700,
+						"filename": "NanumGothicCoding-Bold.ttf",
+						"postScriptName": "NanumGothicCoding-Bold",
+						"fullName": "NanumGothicCoding-Bold",
+						"copyright": "Copyright © 2009 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc."
+					}
+				],
+				"subsets": [
+					"korean",
+					"menu"
+				],
+				"dateAdded": "2012-05-09"
+			},
+			{
+				"name": "Nanum Myeongjo",
+				"designer": "Sandoll Communication",
+				"license": "OFL",
+				"visibility": "Sandbox",
+				"category": "Handwriting",
+				"size": 1355463,
+				"fonts": [
+					{
+						"name": "Nanum Myeongjo",
+						"style": "normal",
+						"weight": 400,
+						"filename": "NanumMyeongjo-Regular.ttf",
+						"postScriptName": "NanumMyeongjo",
+						"fullName": "NanumMyeongjo",
+						"copyright": "Copyright © 2010 NHN Corporation. All rights reserved. Font designed by FONTRIX."
+					},
+					{
+						"name": "Nanum Myeongjo",
+						"style": "normal",
+						"weight": 600,
+						"filename": "NanumMyeongjo-Bold.ttf",
+						"postScriptName": "NanumMyeongjoBold",
+						"fullName": "NanumMyeongjoBold",
+						"copyright": "Copyright © 2010 NHN Corporation. All rights reserved. Font designed by FONTRIX."
+					},
+					{
+						"name": "Nanum Myeongjo",
+						"style": "normal",
+						"weight": 700,
+						"filename": "NanumMyeongjo-ExtraBold.ttf",
+						"postScriptName": "NanumMyeongjoExtraBold",
+						"fullName": "NanumMyeongjoExtraBold",
+						"copyright": "Copyright © 2010 NHN Corporation. All rights reserved. Font designed by FONTRIX."
+					}
+				],
+				"subsets": [
+					"korean",
+					"menu"
+				],
+				"dateAdded": "2012-05-09"
+			},
+			{
+				"name": "Nanum Pen Script",
+				"designer": "Sandoll Communication",
+				"license": "OFL",
+				"visibility": "Sandbox",
+				"category": "Handwriting",
+				"size": 1548776,
+				"fonts": [
+					{
+						"name": "Nanum Pen Script",
+						"style": "normal",
+						"weight": 400,
+						"filename": "NanumPenScript-Regular.ttf",
+						"postScriptName": "NanumPen",
+						"fullName": "Nanum Pen",
+						"copyright": "Copyright © 2010 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc."
+					}
+				],
+				"subsets": [
+					"korean",
+					"menu"
+				],
+				"dateAdded": "2012-05-09"
+			},
+			{
+				"name": "Nosifer Caps",
+				"designer": "Typomondo",
+				"license": "OFL",
+				"visibility": "Internal",
+				"category": "Display",
+				"size": 22616,
+				"fonts": [
+					{
+						"name": "Nosifer Caps",
+						"style": "normal",
+						"weight": 400,
+						"filename": "NosiferCaps-Regular.ttf",
+						"postScriptName": "NosiferCaps-Regular",
+						"fullName": "Nosifer Caps Regular",
+						"copyright": "Copyright (c) 2011, Vernon Adams DBA Typomondo (vern@newtypography.co.uk), with Reserved Font Name \"Nosifer\""
+					}
+				],
+				"subsets": [
+					"latin",
+					"latin-ext",
+					"menu"
+				],
+				"dateAdded": "2011-10-24"
+			},
+			{
+				"name": "OFL Sorts Mill Goudy TT",
+				"designer": "Barry Schwartz",
+				"license": "OFL",
+				"visibility": "Internal",
+				"category": "Serif",
+				"size": 81090,
+				"fonts": [
+					{
+						"name": "OFL Sorts Mill Goudy TT",
+						"style": "normal",
+						"weight": 400,
+						"filename": "OFLGoudyStMTT.ttf",
+						"postScriptName": "OFLGoudyStMTT",
+						"fullName": "OFL Sorts Mill Goudy TT",
+						"copyright": "Copyright (c) 2009 Barry Schwartz (http://crudfactory.com chemoelectric@chemoelectric.org)"
+					},
+					{
+						"name": "OFL Sorts Mill Goudy TT",
+						"style": "italic",
+						"weight": 400,
+						"filename": "OFLGoudyStMTT-Italic.ttf",
+						"postScriptName": "OFLGoudyStMTT-Italic",
+						"fullName": "OFL Sorts Mill Goudy TT Italic",
+						"copyright": "Copyright (c) 2009 Barry Schwartz (http://crudfactory.com chemoelectric@chemoelectric.org)"
+					}
+				],
+				"subsets": [
+					"latin",
+					"menu"
+				],
+				"dateAdded": "2010-05-18"
+			},
+			{
+				"name": "Pecita",
+				"designer": "Phillipe Cochy",
+				"license": "OFL",
+				"visibility": "Sandbox",
+				"category": "Handwriting",
+				"size": 507313,
+				"fonts": [
+					{
+						"name": "Pecita",
+						"style": "normal",
+						"weight": 400,
+						"filename": "Pecita.ttf",
+						"postScriptName": "Pecita",
+						"fullName": "Pecita",
+						"copyright": "Copyright (c) 2009-2011, Philippe Cochy (http://pecita.com acquadoria@gmail.com), with Reserved Font Name Pecita."
+					}
+				],
+				"subsets": [
+					"latin",
+					"latin-ext",
+					"menu"
+				],
+				"dateAdded": "2012-05-09"
+			},
+			{
+				"name": "Phetsarath",
+				"designer": "Danh Hong",
+				"license": "OFL",
+				"visibility": "External",
+				"category": "Serif",
+				"size": 15159,
+				"fonts": [
+					{
+						"name": "Phetsarath",
+						"style": "normal",
+						"weight": 400,
+						"filename": "Phetsarath-Regular.ttf",
+						"postScriptName": "Phetsarath-Regular",
+						"fullName": "Phetsarath Regular",
+						"copyright": "Copyright (c) 2010-2012, Ministry of Posts and Telecommunications, Laos (www.phetsarath.gov.la)"
+					},
+					{
+						"name": "Phetsarath",
+						"style": "normal",
+						"weight": 700,
+						"filename": "Phetsarath-Bold.ttf",
+						"postScriptName": "Phetsarath-Bold",
+						"fullName": "Phetsarath Bold",
+						"copyright": "Copyright (c) 2010-2012, Ministry of Posts and Telecommunications, Laos (www.phetsarath.gov.la)"
+					}
+				],
+				"subsets": [
+					"lao"
+				],
+				"dateAdded": "2012-05-18"
+			},
+			{
+				"name": "Poetsen One",
+				"designer": "Rodrigo Fuenzalida, Pablo Impallari",
+				"license": "OFL",
+				"visibility": "Sandbox",
+				"category": "Display",
+				"size": 75653,
+				"fonts": [
+					{
+						"name": "Poetsen One",
+						"postScriptName": "PoetsenOne-Regular",
+						"fullName": "Poetsen One",
+						"style": "normal",
+						"weight": 400,
+						"filename": "PoetsenOne-Regular.ttf",
+						"copyright": "Copyright (c) 2012, Pablo Impallari (www.impallari.com|impallari@gmail.com) and Rodrigo Fuenzalida (www.rfuenzalida.com), with Reserved Font Name Poetsen."
+					}
+				],
+				"subsets": [
+					"latin",
+					"latin-ext",
+					"menu"
+				],
+				"dateAdded": "2012-09-07"
+			},
+			{
+				"name": "Redacted",
+				"designer": "Christian Naths",
+				"license": "OFL",
+				"visibility": "Sandbox",
+				"category": "Display",
+				"size": 2986,
+				"fonts": [
+					{
+						"name": "Redacted",
+						"postScriptName": "RedactedRegular",
+						"fullName": "Redacted Regular",
+						"style": "normal",
+						"weight": 400,
+						"filename": "Redacted-Regular.ttf",
+						"copyright": "Copyright (c) 2013, Christian Naths (christiannaths@gmail.com christiannaths.com)"
+					}
+				],
+				"subsets": [
+					"latin",
+					"menu"
+				],
+				"dateAdded": "2013-09-18"
+			},
+			{
+				"name": "Redacted Script",
+				"designer": "Christian Naths",
+				"license": "OFL",
+				"visibility": "Sandbox",
+				"category": "Handwriting",
+				"size": 17080,
+				"fonts": [
+					{
+						"name": "Redacted Script",
+						"postScriptName": "RedactedScriptBold",
+						"fullName": "Redacted Script Bold",
+						"style": "normal",
+						"weight": 700,
+						"filename": "RedactedScript-Bold.ttf",
+						"copyright": "Copyright (c) 2013, Christian Naths (christiannaths@gmail.com christiannaths.com)"
+					},
+					{
+						"name": "Redacted Script",
+						"postScriptName": "RedactedScriptRegular",
+						"fullName": "Redacted Script Regular",
+						"style": "normal",
+						"weight": 400,
+						"filename": "RedactedScript-Regular.ttf",
+						"copyright": "Copyright (c) 2013, Christian Naths (christiannaths@gmail.com christiannaths.com)"
+					}
+				],
+				"subsets": [
+					"latin",
+					"menu"
+				],
+				"dateAdded": "2013-09-18"
+			},
+			{
+				"name": "Sansation",
+				"designer": "Bernd Montag",
+				"license": "OFL",
+				"visibility": "Sandbox",
+				"category": "Sans Serif",
+				"size": 29137,
+				"fonts": [
+					{
+						"name": "Sansation",
+						"postScriptName": "Sansation-Bold",
+						"fullName": "Sansation Bold",
+						"style": "normal",
+						"weight": 700,
+						"filename": "Sansation-Bold.ttf",
+						"copyright": "Copyright (c) 2011 by Bernd Montag (berndmontag@gmx.de), with Reserved Font Name 'Sansation'"
+					},
+					{
+						"name": "Sansation",
+						"postScriptName": "Sansation-BoldItalic",
+						"fullName": "Sansation Bold Italic",
+						"style": "normal",
+						"weight": 700,
+						"filename": "Sansation-BoldItalic.ttf",
+						"copyright": "Copyright (c) 2011 by Bernd Montag (berndmontag@gmx.de), with Reserved Font Name 'Sansation'"
+					},
+					{
+						"name": "Sansation",
+						"postScriptName": "Sansation-Italic",
+						"fullName": "Sansation Italic",
+						"style": "normal",
+						"weight": 400,
+						"filename": "Sansation-Italic.ttf",
+						"copyright": "Copyright (c) 2011 by Bernd Montag (berndmontag@gmx.de), with Reserved Font Name 'Sansation'"
+					},
+					{
+						"name": "Sansation",
+						"postScriptName": "Sansation-Light",
+						"fullName": "Sansation Light",
+						"style": "normal",
+						"weight": 300,
+						"filename": "Sansation-Light.ttf",
+						"copyright": "Copyright (c) 2011 by Bernd Montag (berndmontag@gmx.de), with Reserved Font Name 'Sansation'"
+					},
+					{
+						"name": "Sansation",
+						"postScriptName": "Sansation-LightItalic",
+						"fullName": "Sansation Light Italic",
+						"style": "normal",
+						"weight": 300,
+						"filename": "Sansation-LightItalic.ttf",
+						"copyright": "Copyright (c) 2011 by Bernd Montag (berndmontag@gmx.de), with Reserved Font Name 'Sansation'"
+					},
+					{
+						"name": "Sansation",
+						"postScriptName": "Sansation-Regular",
+						"fullName": "Sansation Regular",
+						"style": "normal",
+						"weight": 400,
+						"filename": "Sansation-Regular.ttf",
+						"copyright": "Copyright (c) 2011 by Bernd Montag (berndmontag@gmx.de), with Reserved Font Name 'Sansation'"
+					}
+				],
+				"subsets": [
+					"cyrillic",
+					"latin",
+					"latin-ext",
+					"menu"
+				],
+				"dateAdded": "2012-10-18"
+			},
+			{
+				"name": "Scheherazade",
+				"designer": "SIL International",
+				"license": "OFL",
+				"visibility": "Internal",
+				"category": "Handwriting",
+				"size": 118029,
+				"fonts": [
+					{
+						"name": "Scheherazade",
+						"style": "normal",
+						"weight": 400,
+						"filename": "ScheherazadeRegOT.ttf",
+						"postScriptName": "Scheherazade",
+						"fullName": "Scheherazade",
+						"copyright": "Copyright (c) 2004-2011, SIL International (http://www.sil.org/), with Reserved Font Names \"Scheherazade\" and \"SIL\"., and released under the SIL Open Font License 1.1."
+					}
+				],
+				"subsets": [
+					"arabic",
+					"menu"
+				],
+				"dateAdded": "2012-01-18"
+			},
+			{
+				"name": "Sedan",
+				"designer": "Sebastian Salazar",
+				"license": "OFL",
+				"visibility": "Sandbox",
+				"category": "Serif",
+				"size": 18605,
+				"fonts": [
+					{
+						"name": "Sedan",
+						"postScriptName": "Sedan-Italic",
+						"fullName": "Sedan Italic",
+						"style": "italic",
+						"weight": 400,
+						"filename": "Sedan-Italic.ttf",
+						"copyright": "Copyright (c) 2012, Sebastian Salazar (sebotas26@hotmail.com), with Reserved Font Name 'Sedan'"
+					},
+					{
+						"name": "Sedan",
+						"postScriptName": "Sedan-Regular",
+						"fullName": "Sedan",
+						"style": "normal",
+						"weight": 400,
+						"filename": "Sedan-Regular.ttf",
+						"copyright": "Copyright (c) 2012, Sebastian Salazar (sebotas26@hotmail.com), with Reserved Font Name 'Sedan'"
+					}
+				],
+				"subsets": [
+					"latin"
+				],
+				"dateAdded": "2012-10-31"
+			},
+			{
+				"name": "Sedan SC",
+				"designer": "Sebastian Salazar",
+				"license": "OFL",
+				"visibility": "Sandbox",
+				"category": "Serif",
+				"size": 18981,
+				"fonts": [
+					{
+						"name": "Sedan SC",
+						"postScriptName": "SedanSC-Regular",
+						"fullName": "Sedan SC",
+						"style": "normal",
+						"weight": 400,
+						"filename": "SedanSC-Regular.ttf",
+						"copyright": "Copyright (c) 2012, Sebastian Salazar (sebotas26@hotmail.com), with Reserved Font Name 'Sedan'"
+					}
+				],
+				"subsets": [
+					"latin",
+					"latin-ext",
+					"menu"
+				],
+				"dateAdded": "2012-10-31"
+			},
+			{
+				"name": "Siamreap",
+				"designer": "Danh Hong",
+				"license": "OFL",
+				"visibility": "Internal",
+				"category": "Display",
+				"size": 61459,
+				"fonts": [
+					{
+						"name": "Siamreap",
+						"style": "normal",
+						"weight": 400,
+						"filename": "Siemreap.ttf",
+						"postScriptName": "Siemreap",
+						"fullName": "Siemreap",
+						"copyright": "Copyright (c) 2010, Danh Hong (khmertype.blogspot.com danhhong@gmail.com), with Reserved Font Name Khmer OS Siemreap. This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+					}
+				],
+				"subsets": [
+					"khmer",
+					"menu"
+				],
+				"dateAdded": "2011-03-02"
+			},
+			{
+				"name": "Stalin One",
+				"designer": "Multiple Designers",
+				"license": "OFL",
+				"visibility": "INTERNAL",
+				"category": "Display",
+				"size": 27193,
+				"fonts": [
+					{
+						"name": "Stalin One",
+						"postScriptName": "StalinOne-Regular",
+						"fullName": "Stalin One",
+						"style": "normal",
+						"weight": 400,
+						"filename": "StalinOne-Regular.ttf",
+						"copyright": "Copyright (c) 2009-2011, Alexey Maslov, Jovanny Lemonad (lemonad@jovanny.ru), with Reserved Font Name 'Stalin'"
+					}
+				],
+				"subsets": [
+					"cyrillic",
+					"latin",
+					"latin-ext",
+					"menu"
+				],
+				"dateAdded": "2012-08-20"
+			},
+			{
+				"name": "Strong",
+				"designer": "Gaslight",
+				"license": "OFL",
+				"visibility": "Sandbox",
+				"category": "Sans Serif",
+				"size": 41614,
+				"fonts": [
+					{
+						"name": "Strong",
+						"style": "normal",
+						"weight": 400,
+						"filename": "Strong-Regular.ttf",
+						"postScriptName": "Strong-Regular",
+						"fullName": "Strong",
+						"copyright": "Copyright (c) 2011, Cyreal (www.cyreal.org a@cyreal.org) with Reserved Font Name \"Strong\". This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+					}
+				],
+				"subsets": [
+					"cyrillic",
+					"cyrillic-ext",
+					"latin",
+					"latin-ext",
+					"menu"
+				],
+				"dateAdded": "2012-05-09"
+			},
+			{
+				"name": "Terminal Dosis",
+				"designer": "Pablo Impallari",
+				"license": "OFL",
+				"visibility": "Internal",
+				"category": "Sans Serif",
+				"size": 65681,
+				"fonts": [
+					{
+						"name": "Terminal Dosis",
+						"style": "normal",
+						"weight": 200,
+						"filename": "TerminalDosis-ExtraLight.ttf",
+						"postScriptName": "TerminalDosis-ExtraLight",
+						"fullName": "Terminal Dosis ExtraLight",
+						"copyright": "Copyright (c) 2011, Edgar Tolentino, Pablo Impallari, Igino Marini (impallari.com impallari@gmail.com), with Reserved Font Name Dosis."
+					},
+					{
+						"name": "Terminal Dosis",
+						"style": "normal",
+						"weight": 300,
+						"filename": "TerminalDosis-Light.ttf",
+						"postScriptName": "TerminalDosis-Light",
+						"fullName": "Terminal Dosis Light",
+						"copyright": "Copyright (c) 2011, Edgar Tolentino, Pablo Impallari, Igino Marini (impallari.com impallari@gmail.com), with Reserved Font Name Dosis."
+					},
+					{
+						"name": "Terminal Dosis",
+						"style": "normal",
+						"weight": 400,
+						"filename": "TerminalDosis-Regular.ttf",
+						"postScriptName": "TerminalDosis-Regular",
+						"fullName": "Terminal Dosis Regular",
+						"copyright": "Copyright (c) 2011, Edgar Tolentino, Pablo Impallari, Igino Marini (impallari.com impallari@gmail.com), with Reserved Font Name Dosis."
+					},
+					{
+						"name": "Terminal Dosis",
+						"style": "normal",
+						"weight": 500,
+						"filename": "TerminalDosis-Medium.ttf",
+						"postScriptName": "TerminalDosis-Medium",
+						"fullName": "Terminal Dosis Medium",
+						"copyright": "Copyright (c) 2011, Edgar Tolentino, Pablo Impallari, Igino Marini (impallari.com impallari@gmail.com), with Reserved Font Name Dosis."
+					},
+					{
+						"name": "Terminal Dosis",
+						"style": "normal",
+						"weight": 600,
+						"filename": "TerminalDosis-SemiBold.ttf",
+						"postScriptName": "TerminalDosis-SemiBold",
+						"fullName": "Terminal Dosis SemiBold",
+						"copyright": "Copyright (c) 2011, Edgar Tolentino, Pablo Impallari, Igino Marini (impallari.com impallari@gmail.com), with Reserved Font Name Dosis."
+					},
+					{
+						"name": "Terminal Dosis",
+						"style": "normal",
+						"weight": 700,
+						"filename": "TerminalDosis-Bold.ttf",
+						"postScriptName": "TerminalDosis-Bold",
+						"fullName": "Terminal Dosis Bold",
+						"copyright": "Copyright (c) 2011 by EdgarTolentino, PabloImpallari, IginoMarini. All rights reserved."
+					},
+					{
+						"name": "Terminal Dosis",
+						"style": "normal",
+						"weight": 800,
+						"filename": "TerminalDosis-ExtraBold.ttf",
+						"postScriptName": "TerminalDosis-ExtraBold",
+						"fullName": "Terminal Dosis ExtraBold",
+						"copyright": "Copyright (c) 2011 by EdgarTolentino, PabloImpallari, IginoMarini. All rights reserved."
+					}
+				],
+				"subsets": [
+					"latin",
+					"latin-ext",
+					"menu"
+				],
+				"dateAdded": "2011-09-28"
+			},
+			{
+				"name": "Terminal Dosis Light",
+				"designer": "multiple designers",
+				"license": "OFL",
+				"visibility": "Internal",
+				"category": "Sans Serif",
+				"size": 52544,
+				"fonts": [
+					{
+						"name": "Terminal Dosis Light",
+						"style": "normal",
+						"weight": 400,
+						"filename": "TerminalDosis-Light.ttf",
+						"postScriptName": "TerminalDosis-Light",
+						"fullName": "Terminal Dosis Light",
+						"copyright": "Copyright (c) 2011 by Edgar Tolentino, Pablo Impallari, Igino Marini (impallari.com impallari@gmail.com). All rights reserved."
+					}
+				],
+				"subsets": [
+					"latin",
+					"menu"
+				],
+				"dateAdded": "2011-03-30"
+			},
+			{
+				"name": "Thabit",
+				"designer": "Khaled Hosny",
+				"license": "OFL",
+				"visibility": "Internal",
+				"category": "Serif",
+				"size": 57602,
+				"fonts": [
+					{
+						"name": "Thabit",
+						"style": "normal",
+						"weight": 400,
+						"filename": "Thabit.ttf",
+						"postScriptName": "Thabit",
+						"fullName": "Thabit",
+						"copyright": "Typeface and data (C) 2002-2008, Khaled Hosny (khaledhosny@eglug.org). This font is distributed under the terms of OFL license. Latin glyphs are Copyright (c) IBM Corporation 1990,1991."
+					},
+					{
+						"name": "Thabit",
+						"style": "italic",
+						"weight": 400,
+						"filename": "Thabit-Oblique.ttf",
+						"postScriptName": "Thabit-Oblique",
+						"fullName": "Thabit-Oblique Oblique",
+						"copyright": "Typeface and data (C) 2002-2008, Khaled Hosny (khaledhosny@eglug.org). This font is distributed under the terms of OFL license. Latin glyphs are Copyright (c) IBM Corporation 1990,1991."
+					},
+					{
+						"name": "Thabit",
+						"style": "normal",
+						"weight": 700,
+						"filename": "Thabit-Bold.ttf",
+						"postScriptName": "Thabit-Bold",
+						"fullName": "Thabit-Bold Bold",
+						"copyright": "Typeface and data (C) 2002-2008, Khaled Hosny (khaledhosny@eglug.org). This font is distributed under the terms of OFL license. Latin glyphs are Copyright (c) IBM Corporation 1990,1991."
+					},
+					{
+						"name": "Thabit",
+						"style": "italic",
+						"weight": 700,
+						"filename": "Thabit-BoldOblique.ttf",
+						"postScriptName": "Thabit-Bold-Oblique",
+						"fullName": "Thabit-Bold-Oblique Bold Oblique",
+						"copyright": "Typeface and data (C) 2002-2008, Khaled Hosny (khaledhosny@eglug.org). This font is distributed under the terms of OFL license. Latin glyphs are Copyright (c) IBM Corporation 1990,1991."
+					}
+				],
+				"subsets": [
+					"arabic",
+					"menu"
+				],
+				"dateAdded": "2010-09-21"
+			},
+			{
+				"name": "Tuffy",
+				"designer": "Thatcher Ulrich",
+				"license": "OFL",
+				"visibility": "Internal",
+				"category": "Sans Serif",
+				"size": 76494,
+				"fonts": [
+					{
+						"name": "Tuffy",
+						"style": "normal",
+						"weight": 400,
+						"filename": "Tuffy-Regular.ttf",
+						"postScriptName": "Tuffy-Regular",
+						"fullName": "Tuffy Regular",
+						"copyright": "Copyright (c) 2011, Thatcher Ulrich (http://tulrich.com tu@tulrich.com), Karoly Barta (brtkr@freemail.hu), Michael Everson (http://www.evertype.com everson@evertype.com), with Reserved Font Name \"Tuffy\""
+					},
+					{
+						"name": "Tuffy",
+						"style": "italic",
+						"weight": 400,
+						"filename": "Tuffy-Italic.ttf",
+						"postScriptName": "Tuffy-Italic",
+						"fullName": "Tuffy Italic",
+						"copyright": "Copyright (c) 2011, Thatcher Ulrich (http://tulrich.com tu@tulrich.com), Karoly Barta (brtkr@freemail.hu), Michael Everson (http://www.evertype.com everson@evertype.com), with Reserved Font Name \"Tuffy\""
+					},
+					{
+						"name": "Tuffy",
+						"style": "normal",
+						"weight": 700,
+						"filename": "Tuffy-Bold.ttf",
+						"postScriptName": "Tuffy-Bold",
+						"fullName": "Tuffy Bold",
+						"copyright": "Copyright (c) 2011, Thatcher Ulrich (http://tulrich.com tu@tulrich.com), Karoly Barta (brtkr@freemail.hu), Michael Everson (http://www.evertype.com everson@evertype.com), with Reserved Font Name \"Tuffy\""
+					},
+					{
+						"name": "Tuffy",
+						"style": "italic",
+						"weight": 700,
+						"filename": "Tuffy-BoldItalic.ttf",
+						"postScriptName": "Tuffy-BoldItalic",
+						"fullName": "Tuffy Bold Italic",
+						"copyright": "Copyright (c) 2011, Thatcher Ulrich (http://tulrich.com tu@tulrich.com), Karoly Barta (brtkr@freemail.hu), Michael Everson (http://www.evertype.com everson@evertype.com), with Reserved Font Name \"Tuffy\""
+					}
+				],
+				"subsets": [
+					"cyrillic",
+					"cyrillic-ext",
+					"greek",
+					"greek-ext",
+					"latin",
+					"latin-ext",
+					"menu"
+				],
+				"dateAdded": "2012-05-09"
+			}
+		]
+	}
+}

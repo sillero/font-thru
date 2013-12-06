@@ -1,0 +1,14 @@
+{
+  "name": "font-thru",
+  "version": "0.0.0",
+  "description": "Font-Thru is an interface focused on easy experimentation with fonts",
+  "main": "Gruntfile.js",
+  "devDependencies": {
+  	"request": "*",
+    "node.extend": "*",
+  	"grunt": "*",
+  	"grunt-prompt": "*"
+  },
+  "author": "Gustavo Sillero ['twitter', 'github']@sillero",
+  "license": "BSD-2-Clause"
+}
