@@ -1,7 +1,7 @@
 font-thru
 =========
 
-A web tool to experiment with webfonts.
+A web tool to experiment with webfonts, made for designers.
 
 Font sources (webfont.js): 
 - google fonts
