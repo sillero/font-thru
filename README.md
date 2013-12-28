@@ -3,13 +3,13 @@ font-thru
 
 A web tool to experiment with webfonts, made for designers.
 
-Font sources (webfont.js): 
+Font sources (webfont.js):
 - google fonts
 - (future) Fontdeck
 - (future) Fonts.com
 - (future) Typekit
 
-Features:  
+Features:
 - text authoring options (font choooser, text decoration and weight, line spacing, character spacing...)
 - grouping and stack ordering
 - skew and rotation
@@ -21,3 +21,6 @@ Made with modern tools and techniques:
 
 Development issues
 - (google fonts) Category not available [keep an eye here](https://code.google.com/p/googlefontdirectory/issues/detail?id=175)
+
+##License
+[MIT-license](https://github.com/sillero/font-thru/blob/master/LICENSE.md)
