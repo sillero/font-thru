@@ -1,0 +1,22 @@
+//===========
+//  variables
+//============
+
+// colors
+//=======
+
+$gray--light: rgb(245,245,245);
+$gray: rgb(170,170,170);
+$gray--dark: rgb(50,50,50);
+
+$black: rgb(0,0,0);
+
+
+// production
+//===========
+$bkg: $gray--light;
+
+$fontColor--default: $black;
+$fontColor--deactive: $gray--dark;
+
+$details__support: $gray;

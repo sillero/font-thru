@@ -12,8 +12,7 @@
 
 		<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
-		<link rel="stylesheet" href="css/normalize.css">
-		<link rel="stylesheet" href="css/main.css">
+		<link rel="stylesheet" href="styles/css/main.css">
 		<script src="js/vendor/modernizr-2.6.2.min.js"></script>
 		<script src="js/vendor/webfont.js"></script>
 		<script src="js/vendor/jquery-1.10.2.min.js"></script>
@@ -35,22 +34,34 @@
 					<div class="font-element draggable"><span class="text-node-wrapper"><span class="text-node">You puti the xampu in the midiu,<br>from the fronte,<br>from the berrind<br>ande the caspa donti cai io xolder</span></span></div>
 				</div>
 				<div id="controls">
-					<select name="font-family-selector" id="font-family-selector" tabindex="-1">
-						<option value="none" disabled selected>Selecione uma fonte</option>
-					</select>
-					<select name="font-size-selector" id="font-size-selector" tabindex="-1">
-						<option value="12pt">12pt</option>
-						<option value="14pt">14pt</option>
-						<option value="16pt">16pt</option>
-						<option value="18pt">18pt</option>
-						<option value="20pt">20pt</option>
-						<option value="24pt">24pt</option>
-					</select>
-					<select name="text-align-selector" id="text-align-selector" tabindex="-1">
-						<option value="left">left</option>
-						<option value="center">center</option>
-						<option value="right">right</option>
-					</select>
+					<section class="controls__font">
+						<select name="font-family-selector" id="font-family-selector" tabindex="-1">
+							<option value="none" disabled selected>Selecione uma fonte</option>
+						</select>
+						<select name="font-size-selector" id="font-size-selector" tabindex="-1">
+							<option value="12pt">12pt</option>
+							<option value="14pt">14pt</option>
+							<option value="16pt">16pt</option>
+							<option value="18pt">18pt</option>
+							<option value="20pt">20pt</option>
+							<option value="24pt">24pt</option>
+						</select>
+						<select name="text-align-selector" id="text-align-selector" tabindex="-1">
+							<option value="left">left</option>
+							<option value="center">center</option>
+							<option value="right">right</option>
+						</select>
+					</section>
+					<section class="controls__colors">
+						<!--
+						adjust font and block colors
+						-->
+					</section>
+					<section class="controls__canvas">
+						<!--
+						toggle canvas patterns
+						-->
+					</section>
 				</div>
 			</div>
 		</section>
