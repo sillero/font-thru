@@ -23,4 +23,4 @@ Development issues
 - (google fonts) Category not available [keep an eye here](https://code.google.com/p/googlefontdirectory/issues/detail?id=175)
 
 ##License
-[MIT-license](https://github.com/sillero/font-thru/blob/master/LICENSE.md)
+[MIT-license](https://github.com/sillero/font-thru/blob/wip/LICENSE.md)
